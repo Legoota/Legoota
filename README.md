@@ -1,6 +1,6 @@
 # 👋 Hello, my name is Léo
 
-## What can you find here ?
+## 👨‍💻 What can you find here ?
 
 * Personal projects that I'm working on to discover new technologies or to strengthen my knowledge
 * School-related projects
@@ -12,7 +12,7 @@
 * Computational complexity in sorting and graph algorithms
 * CI, Actions, Docker, AWS tools
 
-## 👨‍💻 Education
+## 🎓 Education
 
 * Currently doing an Engineer's degree at Polytech Nancy (*Nancy, FR*), in the automation, robotics, networks and computer science fields.
 * Previously studied computer science at VIA UC (*Horsens, DK*) and Unistra (*Strasbourg, FR*)
