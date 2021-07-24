@@ -22,7 +22,7 @@
 * Doing my Engineer's degree in conjunction as an apprentice to acquire strong and useful skills for the future
 * Working with VueJS, TypeScript, .NET Core, NoSQL & SQL databases, to build a tailored *MES* for my company
 
-## Interests
+## 🎛️ Interests
 
 * ML, linear algebra, space, science in general
 * Custom keyboard building
