@@ -1,4 +1,4 @@
-# 👋 Hello, my name is Léo K.
+# 👋 Hello, my name is Léo
 
 ## What can you find here ?
 
