@@ -15,7 +15,7 @@
 ## 🎓 Education
 
 * Currently doing an Engineer's degree at Polytech Nancy (*Nancy, FR*), in the automation, robotics, networks and computer science fields.
-* Previously studied computer science at VIA UC (*Horsens, DK*) and Unistra (*Strasbourg, FR*)
+* Previously studied computer science at VIA UC (*Horsens, DK*) and IUT Robert Schuman, Unistra (*Strasbourg, FR*)
 
 ## ⌨️ Apprenticeship
 
