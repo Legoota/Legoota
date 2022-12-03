@@ -12,15 +12,16 @@
 * Computational complexity in sorting and graph algorithms
 * CI, Actions, Docker, AWS tools
 
+## 🖥️ Work
+* In charge of developing and integrating the homemade MES in the company.
+* Working with VueJS, TypeScript, .NET Core, NoSQL & SQL databases, to build a tailored *MES* for the specific needs of the company I work for.
+* Also playing with Deno, and UWB technologies.
+
 ## 🎓 Education
 
-* Currently doing an Engineer's degree at Polytech Nancy (*Nancy, FR*), in the automation, robotics, networks and computer science fields.
+* Graduated from an IT Engineer's degree at Polytech Nancy (*Nancy, FR*) in 2022, in the automation, robotics, networks and computer science fields.
+* Did my degree in apprenticeship to acquire strong and useful skills for the future.
 * Previously studied computer science at VIA UC (*Horsens, DK*) and IUT Robert Schuman, Unistra (*Strasbourg, FR*)
-
-## ⌨️ Apprenticeship
-
-* Doing my Engineer's degree in conjunction as an apprentice to acquire strong and useful skills for the future
-* Working with VueJS, TypeScript, .NET Core, NoSQL & SQL databases, to build a tailored *MES* for my company
 
 ## 🎛️ Interests
 
@@ -28,3 +29,5 @@
 * Custom keyboard building
 * Vintage audio systems and HIFI
 * FPV Drones
+* Restoring old cars
+* Homelabs
